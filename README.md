@@ -57,8 +57,8 @@ Display all the images with their respective filters.
  
 
 ## Program:
-Developed By   :DurgaDevi.P
-Register Number:212220230015
+### Developed By   :DurgaDevi.P
+### Register Number:212220230015
 </br>
 
 ### 1. Smoothing Filters
@@ -182,6 +182,9 @@ plt.show()
 </br>
 
 i) Using Averaging Filter
+
+![p1](https://user-images.githubusercontent.com/75235704/167774965-1bd8f37d-896e-4b16-87b2-f230935b3969.jpeg)
+
 </br>
 </br>
 </br>
@@ -189,6 +192,9 @@ i) Using Averaging Filter
 </br>
 
 ii) Using Weighted Averaging Filter
+
+![p2](https://user-images.githubusercontent.com/75235704/167775015-265f1515-9547-4131-bcf8-f15c48ba1a0a.jpeg)
+
 </br>
 </br>
 </br>
@@ -196,6 +202,9 @@ ii) Using Weighted Averaging Filter
 </br>
 
 iii) Using Gaussian Filter
+
+![p3](https://user-images.githubusercontent.com/75235704/167775070-334c7552-0610-407b-b599-978ddce2743c.jpeg)
+
 </br>
 </br>
 </br>
@@ -203,6 +212,9 @@ iii) Using Gaussian Filter
 </br>
 
 iv) Using Median Filter
+![p4](https://user-images.githubusercontent.com/75235704/167775135-0986ce8f-9790-4e7e-bb4a-0ec63776d6a2.jpeg)
+
+
 </br>
 </br>
 </br>
@@ -213,6 +225,9 @@ iv) Using Median Filter
 </br>
 
 i) Using Laplacian Kernal
+![p5](https://user-images.githubusercontent.com/75235704/167775166-3e369933-ceeb-4974-81f7-680238f06b74.jpeg)
+
+
 </br>
 </br>
 </br>
@@ -220,6 +235,9 @@ i) Using Laplacian Kernal
 </br>
 
 ii) Using Laplacian Operator
+
+![p6](https://user-images.githubusercontent.com/75235704/167775221-32b45507-ffaf-4162-88d3-fc52081ccd90.jpeg)
+
 </br>
 </br>
 </br>
