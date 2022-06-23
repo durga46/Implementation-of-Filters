@@ -1,4 +1,6 @@
-# Implementation-of-Filters
+## EX.NO : 05
+## Date : 27.04.2022
+# <p align="center"> Implementation-of-Filters</p>
 ## Aim:
 To implement filters for smoothing and sharpening the images in the spatial domain.
 
@@ -8,8 +10,6 @@ Anaconda - Python 3.7
 ## Algorithm:
 ### Step1
 Import the necessary modules.
-</br>
-</br> 
 
 ### Step2
 For performing smoothing operation on a image.
