@@ -57,14 +57,14 @@ Display all the images with their respective filters.
  
 
 ## Program:
-### Developed By   :DurgaDevi.P
-### Register Number:212220230015
-</br>
+```python
+ Developed By   :DurgaDevi.P
+ Register Number:212220230015
 
 ### 1. Smoothing Filters
 
 i) Using Averaging Filter
-```Python
+
 average_kernel=np.ones((13,13),np.float32)/169
 average_filter_image=cv2.filter2D(image,-1,avg_kernel)
 plt.figure(figsize=(10,10))
