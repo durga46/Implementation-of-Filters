@@ -185,12 +185,6 @@ i) Using Averaging Filter
 
 ![p1](https://user-images.githubusercontent.com/75235704/167774965-1bd8f37d-896e-4b16-87b2-f230935b3969.jpeg)
 
-</br>
-</br>
-</br>
-</br>
-</br>
-
 ii) Using Weighted Averaging Filter
 
 ![p2](https://user-images.githubusercontent.com/75235704/167775015-265f1515-9547-4131-bcf8-f15c48ba1a0a.jpeg)
