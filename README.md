@@ -1,5 +1,5 @@
-## EX.NO : 05
-## Date : 27.04.2022
+## EX.NO : 06
+## Date : 03.05.2022
 # <p align="center"> Implementation-of-Filters</p>
 ## Aim:
 To implement filters for smoothing and sharpening the images in the spatial domain.
